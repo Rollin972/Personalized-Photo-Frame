@@ -1,0 +1,26 @@
+body
+{
+    background-color: darkslategray;
+    font-size: 25px;
+    border: 8px;
+    padding:45px;
+    
+}
+
+h1
+{
+    color: mistyrose;
+    text-align: center; 
+}
+
+label
+{
+    color: mistyrose;
+}
+
+#apply,#save
+{
+    font-size: 25px;
+    background-color: darkgreen;
+    color: honeydew;
+}
